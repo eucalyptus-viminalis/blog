@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speedruns on sparky&#39;s test</title>
+    <link>https://sparky.blog/categories/speedruns/</link>
+    <description>Recent content in Speedruns on sparky&#39;s test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Mar 2021 18:47:13 +1100</lastBuildDate><atom:link href="https://sparky.blog/categories/speedruns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0.1</title>
+      <link>https://sparky.blog/posts/0.1/</link>
+      <pubDate>Fri, 19 Mar 2021 18:47:13 +1100</pubDate>
+      
+      <guid>https://sparky.blog/posts/0.1/</guid>
+      <description>install Hugo</description>
+    </item>
+    
+    <item>
+      <title>0.2</title>
+      <link>https://sparky.blog/posts/0.2/</link>
+      <pubDate>Fri, 19 Mar 2021 18:47:13 +1100</pubDate>
+      
+      <guid>https://sparky.blog/posts/0.2/</guid>
+      <description>Create new Hugo site</description>
+    </item>
+    
+  </channel>
+</rss>
