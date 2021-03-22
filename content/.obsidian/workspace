@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "config - code syntax highlighting.md",
+            "file": "posts/0.5.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config - code syntax highlighting.md",
+                "file": "posts/0.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "config - code syntax highlighting.md",
+    "posts/0.5.md",
     "posts/0.4.md",
+    "posts/0.3.md",
+    "posts/0.2.md",
+    "posts/0.1.md",
     "posts/0.md",
-    "all hugo config.md",
-    "archives.md",
-    "config - markup.md",
-    "config - paginate.md",
-    "config - table of contents.md",
-    "data in hugo.md",
-    "hosting on netlify.md"
+    "posts/0.9.md",
+    "posts/0.8.md",
+    "posts/0.7.md",
+    "posts/0.6.md"
   ]
 }

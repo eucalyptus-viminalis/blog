@@ -27,7 +27,6 @@ markup:
       xhtml: false
 
 # Syntax Highlighting
-markup:
   highlight:
     anchorLineNos: false
     codeFences: true
