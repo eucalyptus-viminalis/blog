@@ -1,0 +1,3 @@
+content/*.md
+!content/search.md
+!content/archives.md

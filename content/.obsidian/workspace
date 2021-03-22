@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "990b307d69b6a6e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b1a914f786d7f3",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hosting on netlify.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca8639d292a9b6d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7d6c18d0566f9c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01f05d0fdc475eae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2925042df8e3d728",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "f40fcf62786a0455",
+    "type": "split",
+    "children": [
+      {
+        "id": "87059faa072a692e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8bcd43b803e8dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hosting on netlify.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "posts/0.md",
+    "posts/0.9.md",
+    "posts/preview-hugo-site.md",
+    "posts/0.6.md",
+    "posts/0.5.md",
+    "posts/0.4.md",
+    "posts/0.8.md",
+    "posts/0.7.md",
+    "posts/0.3.md"
+  ]
+}

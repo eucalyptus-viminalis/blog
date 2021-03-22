@@ -1,0 +1,159 @@
+baseURL: "https://sparky.blog/"
+languageCode: en-us
+title: sparky's test 
+theme: PaperMod
+paginate: 3
+
+# Markup
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: false
+      xhtml: false
+
+# Syntax Highlighting
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    noClasses: true
+    style: paraiso-dark
+    tabWidth: 4
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+preserveTaxonomyNames: true
+
+
+googleAnalytics: G-SH77L2ZN8M
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+taxonomies:
+  tag: tags
+  category: categories
+
+# Home-Info Mode
+params: 
+  env: production
+  title: sparky's blog
+  description: "sparky's blog"
+  author: sparky
+  defaultTheme: auto
+  disableThemeToggle: false
+
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  disableSpecial1stPost: false
+  comments: false
+  hidemeta: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+
+#  label:
+#    text: "Home"
+#    icon: /apple-touch-icon.png
+#    iconHeight: 35
+
+  showReadingTime: true
+
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: 👨🏼‍💻
+    Content: Issa me, sparky-o
+
+  socialIcons:
+    - name: "Twitter"
+      url: "https://twitter.com/fibretotheprem"
+    - name: "GitHub"
+      url: "https://github.com/fibretothepremises"
+
+  analytics:
+    google:
+        SiteVerificationTag: "google-site-verification=4b5_5BwpbprrMJEzrMgmLaT_90PJZ1hDrKpmYUME8is"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+    # for search
+    # https://fusejs.io/api/options.html
+  fuseOpts:
+      isCaseSensitive: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.4
+      minMatchCharLength: 0
+      keys: ["title", "permalink", "summary", "content"]
+
+# Search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 1
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 30
+
