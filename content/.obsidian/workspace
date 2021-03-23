@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "990b307d69b6a6e4",
+    "id": "0a02b27e6964ac95",
     "type": "split",
     "children": [
       {
-        "id": "42b1a914f786d7f3",
+        "id": "49b874a8f961022c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/0.5.md",
+            "file": "posts/shelley.md",
             "mode": "source"
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ca8639d292a9b6d1",
+    "id": "110518e807899d2c",
     "type": "split",
     "children": [
       {
-        "id": "a7d6c18d0566f9c2",
+        "id": "3554fb45c1800463",
         "type": "tabs",
         "children": [
           {
-            "id": "01f05d0fdc475eae",
+            "id": "8449ba4b19cca362",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "2925042df8e3d728",
+            "id": "9f5dfaa03594b604",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 300
   },
   "right": {
-    "id": "f40fcf62786a0455",
+    "id": "46a1b86c18fbca2e",
     "type": "split",
     "children": [
       {
-        "id": "87059faa072a692e",
+        "id": "87d8360c23f9a0c1",
         "type": "tabs",
         "children": [
           {
-            "id": "ca8bcd43b803e8dc",
+            "id": "4d89a9c86b0d5fe0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/0.5.md",
+                "file": "posts/shelley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "posts/0.5.md",
-    "posts/0.4.md",
-    "posts/0.3.md",
-    "posts/0.2.md",
-    "posts/0.1.md",
+    "posts/shelley.md",
     "posts/0.md",
-    "posts/0.9.md",
-    "posts/0.8.md",
-    "posts/0.7.md",
-    "posts/0.6.md"
+    "posts/0.1.md"
   ]
 }
